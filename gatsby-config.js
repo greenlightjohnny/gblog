@@ -10,7 +10,7 @@ require("dotenv").config({
 module.exports = {
 
   siteMetadata: {
-    title: 'What Do You Want?',
+    title: 'JQuery Is Dead',
     author: 'Calvin Jones'
   },
   plugins: [
